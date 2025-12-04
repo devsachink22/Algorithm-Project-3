@@ -1,0 +1,31 @@
+city_id,city_name,state,sea_level_ft
+0,Phoenix,AZ,1086
+1,Tucson,AZ,2389
+2,Flagstaff,AZ,6909
+3,Yuma,AZ,141
+4,Scottsdale,AZ,1250
+5,Mesa,AZ,1243
+6,Denver,CO,5280
+7,Colorado Springs,CO,6035
+8,Fort Collins,CO,5003
+9,Pueblo,CO,4692
+10,Grand Junction,CO,4593
+11,Boulder,CO,5430
+12,Albuquerque,NM,5312
+13,Santa Fe,NM,7199
+14,Las Cruces,NM,3900
+15,Farmington,NM,5400
+16,Roswell,NM,3600
+17,Salt Lake City,UT,4226
+18,Provo,UT,4554
+19,Ogden,UT,4300
+20,St George,UT,2680
+21,Logan,UT,4553
+22,Cheyenne,WY,6062
+23,Casper,WY,5100
+24,Laramie,WY,7220
+25,Billings,MT,3100
+26,Missoula,MT,3200
+27,Bozeman,MT,4793
+28,Pocatello,ID,4462
+29,Idaho Falls,ID,4744
